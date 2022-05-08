@@ -12,3 +12,5 @@
 [6、增加半透支持](https://note.youdao.com/s/9EC5n4tn)
 
 [7、万国觉醒建筑白天黑夜效果](https://note.youdao.com/s/VU6QQgU2)
+
+[8、2D建筑与3D模型的遮挡问题](https://note.youdao.com/s/2P7I0nkc)
