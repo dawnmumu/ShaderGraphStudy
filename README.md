@@ -14,3 +14,5 @@
 [7、万国觉醒建筑白天黑夜效果](https://note.youdao.com/s/VU6QQgU2)
 
 [8、2D建筑与3D模型的遮挡问题](https://note.youdao.com/s/2P7I0nkc)
+
+[9、无须光照的模型假阴影实现](https://note.youdao.com/s/DdPvT8ve)
