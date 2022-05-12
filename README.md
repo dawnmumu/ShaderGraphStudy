@@ -1,3 +1,4 @@
+所有里面讲到的Shader，在Shader目录都有。
 # 目录
 [1、什么是Shader](https://note.youdao.com/s/Z4znpc7d)
 
