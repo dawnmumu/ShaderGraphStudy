@@ -16,3 +16,5 @@
 [8、2D建筑与3D模型的遮挡问题](https://note.youdao.com/s/2P7I0nkc)
 
 [9、无须光照的模型假阴影实现](https://note.youdao.com/s/DdPvT8ve)
+
+[10、UI 流光效果实现（Shader Graph）](https://note.youdao.com/s/5K99mfk2)
