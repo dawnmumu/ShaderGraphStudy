@@ -19,3 +19,5 @@
 [9、无须光照的模型假阴影实现](https://note.youdao.com/s/DdPvT8ve)
 
 [10、UI 流光效果实现（Shader Graph）](https://note.youdao.com/s/5K99mfk2)
+
+[11、描边效果（Shader Graph、URP HLSL）](https://note.youdao.com/s/Mcgj9jQD)
